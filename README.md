@@ -8,7 +8,7 @@
 - 🎓   I’m currently Seeking for an intrnship training at Embedded Sowftware Companies .
 - 🌱   Learning more about Microcontrollers, Embedded Software,RTOS.
 - 👯 I am open to collaboration on projects related to: Software development, Embedded Systems.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/omar-mahrous) | <a href="mailto:mahroo802@gmail.com">Gmail</a> |  <a href="https://web.whatsapp.com/">Whatsapp:+201119696438</a> 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/omar-mahrous-4a046b247/) | <a href="mailto:mahroo802@gmail.com">Gmail</a> |  <a href="https://web.whatsapp.com/">Whatsapp:+201119696438</a> 
 
 
 ## Languages and Tools 🛠️
